@@ -1,6 +1,7 @@
 ### Hey there! 👋
 
-I have some info about me in my description to the left <--
+I have some info about me in my description below my picture
+
 Here is some of my experience,
 
 [🟥] 4+ Years of Roblox Luau
@@ -9,3 +10,4 @@ Here is some of my experience,
 
 [🐍] 2+ Years of Python
 
+<-- Info
