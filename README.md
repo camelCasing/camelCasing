@@ -1,5 +1,8 @@
-### Hi there 🦊
+### Hey there! 🦊
 
-🔭 I’m currently working on:
-1) 🐝 [Honey](https://github.com/giachad/honey), a modern programming language with javascript like syntax
-2) 👾 [Edner Client](https://github.com/giachad/edner-client), started off as a joke but a basic Minecraft PvP Client
+I have some info about me in my description to the left <--
+Here is some of my experience,
+
+1) 4+ Years of Roblox Luau
+2) 2+ Years of Unity Game Engine
+3) 2+ Years of Python
