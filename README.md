@@ -10,4 +10,8 @@ Here is some of my experience,
 
 [🐍] 2+ Years of Python
 
+[🧑‍💻] Learning C++
+
+_ _
+
 <-- Info
