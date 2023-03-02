@@ -10,7 +10,7 @@ Here is some of my experience,
 
 [🐍] 2+ Years of Python
 
-[🧑‍💻] Learning C++
+[😎] Started using Lua out of Roblox
 
  
 
