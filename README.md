@@ -12,6 +12,6 @@ Here is some of my experience,
 
 [😎] Started using Lua out of Roblox
 
- 
+[🧑‍💻] Basic knowledge of C/C++
 
 <-- Info
